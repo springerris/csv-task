@@ -32,7 +32,9 @@ class employee:
         self.hours = hours
         self.rate = rate
 
-def readCSV
+def readCSV(filename) {
+    
+}
 
 args = sys.argv[1:]
 print(args)
