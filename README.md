@@ -13,6 +13,8 @@ python3 main.py data1.csv data2.csv data3.csv --report payout --json payout.json
 ![image](https://github.com/user-attachments/assets/6277be96-5abe-44ea-9e5f-eac285622533)
 
 Скриншот отчёта:
+
+
 ![image](https://github.com/user-attachments/assets/f963b1ad-6aa0-4f1a-a084-a0887dc33111)
 
 
